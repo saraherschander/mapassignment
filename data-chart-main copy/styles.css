@@ -1,0 +1,47 @@
+
+* {
+	margin: auto;
+	background-color: #E8EAE3;
+	max-width: 960px;
+}
+
+img {
+	width: 75%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: double;
+	border-size: 4px;
+	border-color: #ff6864;
+	margin-top: 10px;
+}
+
+h1 {
+	font-family: 'Catamaran', sans-serif;
+	padding: 10px;
+}
+
+p {
+	font-family: 'B612', sans-serif;
+	padding: 10px;
+	}
+
+h1, p, #byline, #dateline {
+	color: #1d1d2c;
+}
+
+.graph {
+	max-width: 40%;
+	border-style: solid;
+	border-color: #0B4141;
+	padding: 20px;
+}
+
+#graphics {
+	display: flex;
+
+}
+
+.caption {
+	text-align: center;
+}
